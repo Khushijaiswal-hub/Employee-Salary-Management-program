@@ -59,10 +59,10 @@ EmployeeSalaryManagement/
 ├── README.md                # Project description
 └── data.txt (optional)      # Employee data storage
 ------
-##first section of code
+##firstsection of code
 ![firstsection](first.png)
-##second section of code
-![second section](Second section.png)
-##third section of code
-![third section ](third.png)
+##secondsection of code
+![secondsection](Second section.png)
+##thirdsection of code
+![thirdsection ](third.png)
 
