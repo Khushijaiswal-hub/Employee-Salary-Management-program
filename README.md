@@ -60,9 +60,9 @@ EmployeeSalaryManagement/
 └── data.txt (optional)      # Employee data storage
 ------
 ##first section of code
-![first section](first.png)
+![firstsection](first.png)
 ##second section of code
-![second section](seconsection.png)
+![second section](Second section.png)
 ##third section of code
 ![third section ](third.png)
 
