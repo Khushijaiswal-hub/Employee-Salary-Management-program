@@ -59,8 +59,4 @@ EmployeeSalaryManagement/
 ├── README.md                # Project description
 └── data.txt (optional)      # Employee data storage
 ------
-Contribution
-Add salary deductions & bonuses
-Department-wise management
-Generate reports (PDF/Excel)
-Create a GUI version
+
